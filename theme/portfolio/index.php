@@ -23,7 +23,7 @@ include_once(G5_THEME_PATH.'/head.php');
         <div class="row justify-content-center text-center">
             <div class="col-xl-8 col-lg-9">
                 <h2 class="display-4 mx-xl-6 text-center">ABOUT</h2>
-                <p class="lead">안녕하세요 ○○○ 입니다.</p>
+                <p class="lead">안녕하세요 "프리덤리 마케팅 에이젼시" 입니다.</p>
 			</div>
 		</div>
 		<div class="row">
@@ -67,8 +67,8 @@ include_once(G5_THEME_PATH.'/head.php');
     <div class="container">
         <div class="row justify-content-center text-center">
             <div class="col-xl-8 col-lg-9">
-                <h2 class="display-4 mx-xl-6">RESUME</h2>
-                <p class="lead">포트폴리오 테마 이력입니다.</p>
+                <h2 class="display-4 mx-xl-6">Freedomly Marketing</h2>
+                <p class="lead">프리덤리 마케팅 이력입니다.</p>
             </div>
         </div>
         <div class="row text-center">
@@ -122,8 +122,8 @@ include_once(G5_THEME_PATH.'/head.php');
     <div class="container">
         <div class="row justify-content-center text-center">
             <div class="col-xl-8 col-lg-9">
-                <h2 class="display-4 mx-xl-6">SKILLS</h2>
-                <p class="lead">포트폴리오 테마 기술 능력입니다.</p>
+                <h2 class="display-4 mx-xl-6">Freedomly Marketing Skills</h2>
+                <p class="lead">프리덤리 마케팅 기술 능력입니다.</p>
 			</div>
         </div>
         <div class="row">
@@ -150,8 +150,8 @@ include_once(G5_THEME_PATH.'/head.php');
     <div class="container">
         <div class="row justify-content-center text-center">
             <div class="col-xl-8 col-lg-9">
-                <h2 class="display-4 mx-xl-6"><a href="<?php echo get_pretty_url('news'); ?>">NEWS</a></h2>
-                <p class="lead">포트폴리오 테마 소식입니다.</p>
+                <h2 class="display-4 mx-xl-6"><a href="<?php echo get_pretty_url('news'); ?>">Freedomly Marketing News</a></h2>
+                <p class="lead">프리덤리 마케팅 소식입니다.</p>
 			</div>
         </div>
         <?php echo latest('theme/basic', 'news', 6, 25); ?>
@@ -162,8 +162,8 @@ include_once(G5_THEME_PATH.'/head.php');
 	<div class="container">
         <div class="row justify-content-center text-center">
             <div class="col-xl-8 col-lg-9">
-                <h2 class="display-4 mx-xl-6"><a href="<?php echo get_pretty_url('works'); ?>">WORKS</a></h2>
-                <p class="lead">포트폴리오 테마 갤러리 작업물입니다.</p>
+                <h2 class="display-4 mx-xl-6"><a href="<?php echo get_pretty_url('works'); ?>">Freedomly Marketing Works</a></h2>
+                <p class="lead">프리덤리 마케팅 작업물입니다.</p>
 			</div>
         </div>
 	</div>
@@ -189,7 +189,7 @@ include_once(G5_THEME_PATH.'/head.php');
     <div class="container">
         <div class="row justify-content-center text-center">
             <div class="col-xl-8 col-lg-9">
-                <h2 class="display-4 mx-xl-6">CONTACT</h2>
+                <h2 class="display-4 mx-xl-6">Contact us</h2>
                 <p class="lead">연락처를 남겨주세요.</p>
 			</div>
         </div>

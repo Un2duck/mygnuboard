@@ -48,11 +48,11 @@ include_once(G5_LIB_PATH.'/popular.lib.php');
     </div>
     <ul class="sidebar-nav">
         <li><a href="<?php echo G5_URL ?>/#about" onclick = $("#menu-close").click();>About</a></li>
-        <li><a href="<?php echo G5_URL ?>/#resume" onclick = $("#menu-close").click();>Resume</a></li>
-        <li><a href="<?php echo G5_URL ?>/#skills" onclick = $("#menu-close").click();>Skills</a></li>
-        <li><a href="<?php echo G5_URL ?>/#news" onclick = $("#menu-close").click();>News</a></li>
-        <li><a href="<?php echo G5_URL ?>/#work" onclick = $("#menu-close").click();>Works</a></li>
-        <li><a href="<?php echo G5_URL ?>/#contact" onclick = $("#menu-close").click();>Contact</a></li>
+        <li><a href="<?php echo G5_URL ?>/#resume" onclick = $("#menu-close").click();>Freedomly Marketing</a></li>
+        <li><a href="<?php echo G5_URL ?>/#skills" onclick = $("#menu-close").click();>Freedomly Marketing Skills</a></li>
+        <li><a href="<?php echo G5_URL ?>/#news" onclick = $("#menu-close").click();>Freedomly Marketing News</a></li>
+        <li><a href="<?php echo G5_URL ?>/#work" onclick = $("#menu-close").click();>Freedomly Marketing Works</a></li>
+        <li><a href="<?php echo G5_URL ?>/#contact" onclick = $("#menu-close").click();>Contact us</a></li>
     </ul>
     <button id="menu-close" class="btn btn-light btn-lg pull-right"></button>
 </nav>
